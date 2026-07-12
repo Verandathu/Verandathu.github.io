@@ -58,21 +58,3 @@ Honors and Awards
 * **Tsinghua 5th Robot Dog Development Competition** — 4th Place & Best Technological Innovation Award (June 2026)
 * **2026 China Robot Competition & RoboCup China Open (RoboCup@Home)** — National First Prize (2026)
 * **RoboCup 2026 Incheon, RoboCup@Home League** — 11th Place Worldwide (July 2026)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

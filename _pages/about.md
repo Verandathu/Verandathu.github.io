@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I'm a highly motivated undergraduate student in the Department of Automation at Tsinghua University, with a strong passion for **Embodied Intelligence**, **Physical AI**, and **Multimodal Large Language Models**. I'm eager to explore interdisciplinary research at the intersection of automation, computer science, and artificial intelligence, and to apply theoretical knowledge to real-world engineering challenges.
+Hi! I'm a highly motivated undergraduate student in the Department of Automation at Tsinghua University, with a strong passion for **Embodied Intelligence**, **Physical AI** and **Multimodal Large Language Model**. I'm eager to explore interdisciplinary research at the intersection of automation, computer science, and artificial intelligence, and to apply theoretical knowledge to real-world engineering challenges.
 
 ## Education
 
