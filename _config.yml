@@ -13,7 +13,7 @@ title                    : "Zixu Wang"
 title_separator          : "-"
 name                     : &name "Zixu Wang"
 description              : &description "Undergraduate at Tsinghua University, Department of Automation"
-url                      : https://verandathu.github.io
+url                      : https://veranda.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Verandathu/Verandathu.github.io"
@@ -29,7 +29,7 @@ author:
   bio              : "Undergraduate in Department of Automation, Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : https://verandathu.github.io
+  uri              : https://veranda.github.io
   email            : "wangzixu25@mails.tsinghua.edu.cn"
 
   # Academic websites

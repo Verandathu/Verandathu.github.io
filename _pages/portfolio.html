@@ -3,9 +3,15 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+published: false
 ---
+
+{% comment %}
+Original template code preserved for future use:
 
 {% include base_path %}
 
-Coming soon.
-
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endcomment %}

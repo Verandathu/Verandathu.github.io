@@ -3,7 +3,7 @@
     "name": "Zixu Wang",
     "email": "wangzixu25@mails.tsinghua.edu.cn",
     "phone": "+86 15689753696",
-    "website": "https://verandathu.github.io",
+    "website": "https://veranda.github.io",
     "summary": "Undergraduate in Department of Automation, Tsinghua University",
     "location": {
       "address": "",
@@ -24,11 +24,11 @@
   "education": [
     {
       "institution": "Tsinghua University",
-      "area": "B.Eng. in Automation, School of Information Science and Technology",
+      "area": "Undergraduate in Department of Automation, School of Information Science and Technology",
       "studyType": "Undergraduate",
       "startDate": "2025-08",
       "endDate": "",
-      "gpa": "3.94/4.00",
+      "gpa": "",
       "courses": []
     }
   ],
@@ -43,19 +43,10 @@
     },
     {
       "name": "Programming & Tools",
-      "keywords": ["Python", "C/C++", "PyTorch"]
+      "keywords": ["Python", "C/C++", "Multisim", "PyTorch"]
     }
   ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native"
-    },
-    {
-      "language": "English",
-      "fluency": "Professional"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
       "name": "Embodied AI",
@@ -83,18 +74,18 @@
       "description": "C++ project scheduling system implementing the Critical Path Method (CPM) algorithm with MVC architecture and template-based file I/O plugin system. Object-Oriented Programming Training, Tsinghua University (In Progress)."
     },
     {
-      "name": "Catgirl Resource Machine",
+      "name": "Catgirl Resource Machine --- A Programming Puzzle Game",
       "category": "project",
       "date": "2025-11",
       "url": "",
-      "description": "C++/Qt 6 programming puzzle game with assembly-like instruction set and 4-level campaign. Fundamentals of Programming, Tsinghua University. Grade: 100/100, A+, 4.0/4.0."
+      "description": "C++/Qt 6 puzzle game inspired by Human Resource Machine, featuring an assembly-like instruction set with a 4-level campaign. Fundamentals of Programming, Tsinghua University."
     },
     {
       "name": "Home Service Robot Vision Pipeline (YOLO11-seg + SAM3)",
       "category": "project",
       "date": "2026-06",
       "url": "https://gitee.com/LustrousVeranda/training-kit_for-vision",
-      "description": "Full-stack deep learning pipeline for household object detection and instance segmentation. SAM3 annotation + YOLO11-seg inference + React frontend. Introduction to AI, Tsinghua University. Grade: 4.0/4.0."
+      "description": "Full-stack deep learning pipeline for household object detection and instance segmentation. SAM3 annotation + YOLO11-seg inference + React frontend. Introduction to Artificial Intelligence, Tsinghua University."
     }
   ]
 }
